@@ -1,5 +1,5 @@
 
-Dear Editorial Board,
+Dear Editor-in-Chief,
 
 with this email we would like to ask your attention to the following request.
 
@@ -19,6 +19,10 @@ chemistry is a quite central science.
 We have started a petition to the publishing side of the American Chemical
 Society to join the I4OC [1]. At this moment, more than 300 people have shown
 their support for this request.
+
+I would like to ask your support, as we think open citations is contributing
+to the value of journals. Your support as Editor-in-Chief would be very
+welcome.
 
 But we expect you may have question about the petition, I4OC, open citations
 themselves, the use of citations in research, and perhaps how open citations
