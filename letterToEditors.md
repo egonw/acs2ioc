@@ -1,5 +1,5 @@
 
-Dear Editor-in-Chief,
+Dear XXXXX,
 
 with this email we would like to ask your attention to the following request.
 
@@ -21,8 +21,9 @@ Society to join the I4OC [1]. At this moment, more than 300 people have shown
 their support for this request.
 
 I would like to ask your support, as we think open citations is contributing
-to the value of journals. Your support as Editor-in-Chief would be very
-welcome.
+to the value of journals. Your support would be very
+welcome. Your signature of the petition of course, but it would be even more
+valuable if we can name you as supporter of joining the I4OC.
 
 But we expect you may have question about the petition, I4OC, open citations
 themselves, the use of citations in research, and perhaps how open citations
