@@ -10,7 +10,7 @@ of doing research.
 
 To support research many publishers have joined up in the Initiative for Open
 Citations (I4OC) [0]. Via I4OC they allow others to use the statistics which are
-already provided in a machine readable way. This initiave includes publishers
+already provided in a machine readable way (e.g. CrossRef). This initiave includes publishers
 of subscription journals and does not require articles to be Open Access. It only
 requires a single email to join the I4OC and support the research around the
 world. The benefits are not limited to just chemistry, but many disciplines, as
